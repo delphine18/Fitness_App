@@ -66,7 +66,7 @@ All you need to enjoy our web application is a computer, browser, and to know ba
 **Brogan Stich** - 
 https://github.com/ad-victoriam-101
 
-**Delphine Urubera** -
+**Delphine U** -
 https://github.com/delphine18
 
 **Grace Houghton Andrizzi** -
